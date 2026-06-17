@@ -126,12 +126,10 @@ http://localhost:8080
 ## 📸 Screenshots
 
 ### Home Page
-> Add your project screenshots here
 > <img width="805" height="589" alt="image" src="https://github.com/user-attachments/assets/9a161ee3-86df-4aac-9425-c322d24420be" />
 
 
-```text
-screenshots/home-page.png
+
 ```
 <img width="1274" height="482" alt="image" src="https://github.com/user-attachments/assets/b33812d2-6df6-41c8-8795-204e6f7cf4c7" />
 
